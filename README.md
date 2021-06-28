@@ -4,7 +4,7 @@
 
 ### Thanks for stopping by!
 
-I'm a developer specializing in back end engineering. I have a background in foreign languages and previously lived in Japan for 8 years. When I'm not coding I'm usually scrambling over a mountain ridge, going on a 'deer safari' with my dog, or playing a round of disc golf.
+I'm a developer specializing in back end engineering. I have a background in foreign languages and previously lived in Japan for 8 years. When I'm not coding I'm usually scrambling over a mountain ridge 🏔, going on a 'deer safari' with my dog 🐶, or playing a round of disc golf 🥏.
 
 
 ### Ways to connect:
