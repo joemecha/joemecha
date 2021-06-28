@@ -4,7 +4,9 @@
 
 ### Thanks for stopping by!
 
-I'm a developer specializing in back end engineering. I have a background in foreign languages and previously lived in Japan for 8 years. When I'm not coding I'm usually scrambling over a mountain ridge 🏔, going on a 'deer safari' with my dog 🐶, or playing a round of disc golf 🥏.
+My name is Joe Mecha and I use he/him pronouns. I'm a developer specializing in back-end engineering with a keen interest in green tech and environmental organizations. I have a background in foreign languages and previously lived in Japan for 8 years. 
+
+When I'm not coding, I'm often scrambling over a mountain ridge 🏔, going on a 'deer safari' with my dog 🐶, or playing a round of disc golf 🥏
 
 
 ### Ways to connect:
@@ -14,6 +16,26 @@ I'm a developer specializing in back end engineering. I have a background in for
   <a href="https://calendly.com/joemecha" target="blank"><img align="left" src="icons/calendly.png" alt="letschat" width="32px" /></a>
   <a href="https://www.alltrails.com/members/joseph-mecha" target="blank"><img align="left" src="icons/alltrails.png" alt="mountaintime" width="32px" /></a>
 </p>
+
+### Technologies:
+<img align="left" src="icons/ruby-plain.svg" />
+<img align="left" src="icons/rails-plain.svg" />
+<img align="left" src="icons/postgresql-plain-plain.svg" />
+<img align="left" src="icons/rspec-plain.png" />
+<img align="left" src="icons/css3-plain.svg" />
+<img align="left" src="icons/html5-plain.svg" />
+<img align="left" src="icons/git-plain.svg" />
+<img align="left" src="icons/github-original.svg" />
+<img align="left" src="icons/travis-plain.svg" />
+<img align="left" src="icons/heroku-plain.svg" />
+<img align="left" src="icons/atom-original.svg" />
+<img align="left" src="icons/vs-code-original.svg" />
+<img align="left" src="icons/photoshop-plain.svg" />
+<img align="left" src="icons/gimp-plain.png" />
+<br />
+<br />
+<br />
+
 <!--
 **joemecha/joemecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,3 +52,4 @@ Here are some ideas to get you started:
 -->
 
 <img  src="https://github-readme-stats.vercel.app/api?username=joemecha&show_icons=true&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364">
+![](https://raw.githubusercontent.com/joemecha/github-stats-transparent/output/generated/languages.svg)
