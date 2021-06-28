@@ -39,10 +39,10 @@ When I'm not coding, I'm often scrambling over a mountain ridge 🏔, going on a
 <br />
 <br />
 <br />
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joemecha&show_icons=true&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364)
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joemecha&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joemecha&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364) -->
 
 <!--
 **joemecha/joemecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
