@@ -1,5 +1,14 @@
 ### Hello hello 👋
 
+![readme_banner2](https://user-images.githubusercontent.com/72046344/123562329-c61e0880-d773-11eb-833a-e1582094c477.jpg)
+
+Thanks for stopping by.
+ 
+<p align='center'>
+[![linkedin badge](https://img.shields.io/badge?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/joemecha)
+[![gmail badge](https://img.shields.io/badge?style=flat-square&logo=gmail)](mailto:jwmecha@gmail.com)
+[![gmail badge](https://img.shields.io/badge?style=flat-square&logo=gmail)](mailto:jwmecha@gmail.com)
+</p>
 <!--
 **joemecha/joemecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
