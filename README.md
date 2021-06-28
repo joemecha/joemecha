@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joemecha&show_icons=true&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364)
+<div align="top">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joemecha&show_icons=true&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364)
+<div/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joemecha&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364)
