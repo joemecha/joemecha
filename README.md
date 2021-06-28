@@ -16,10 +16,12 @@ When I'm not coding, I'm often scrambling over a mountain ridge 🏔, going on a
   <a href="https://calendly.com/joemecha" target="blank"><img align="left" src="icons/calendly.png" alt="letschat" width="32px" /></a>
   <a href="https://www.alltrails.com/members/joseph-mecha" target="blank"><img align="left" src="icons/alltrails.png" alt="mountaintime" width="32px" /></a>
 </p>
-<br>
-<br>
-## Technologies:
-<img align="left" src="icons/ruby-plain.svg" width="35px" />
+<br />
+<br />
+<br />
+
+## Languages and Tools:
+<img align="bottom" src="icons/ruby-plain.svg" width="35px" />
 <img align="left" src="icons/rails-plain.svg" width="32px" />
 <img align="left" src="icons/postgresql-plain.svg" width="32px" />
 <img align="left" src="icons/rspec.png" width="32px" />
