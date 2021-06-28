@@ -19,10 +19,10 @@ When I'm not coding, I'm often scrambling over a mountain ridge 🏔, going on a
 <br>
 <br>
 ## Technologies:
-<img align="left" src="icons/ruby-plain.svg" width="32px" />
+<img align="left" src="icons/ruby-plain.svg" width="35px" />
 <img align="left" src="icons/rails-plain.svg" width="32px" />
-<img align="left" src="icons/postgresql-plain-plain.svg" width="32px" />
-<img align="left" src="icons/rspec-plain.png" width="32px" />
+<img align="left" src="icons/postgresql-plain.svg" width="32px" />
+<img align="left" src="icons/rspec.png" width="32px" />
 <img align="left" src="icons/css3-plain.svg" width="32px" />
 <img align="left" src="icons/html5-plain.svg" width="32px" />
 <img align="left" src="icons/git-plain.svg" width="32px" />
@@ -30,7 +30,7 @@ When I'm not coding, I'm often scrambling over a mountain ridge 🏔, going on a
 <img align="left" src="icons/travis-plain.svg" width="32px" />
 <img align="left" src="icons/heroku-plain.svg" width="32px" />
 <img align="left" src="icons/atom-original.svg" width="32px" />
-<img align="left" src="icons/vs-code-original.svg" width="32px" />
+<img align="left" src="icons/vscode-original.svg" width="32px" />
 <img align="left" src="icons/photoshop-plain.svg" width="32px" />
 <img align="left" src="icons/gimp-plain.png" width="32px" />
 <br />
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 -->
 
 <img  src="https://github-readme-stats.vercel.app/api?username=joemecha&show_icons=true&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364">
-![](https://raw.githubusercontent.com/joemecha/github-stats-transparent/output/generated/languages.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joemehca&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364")
