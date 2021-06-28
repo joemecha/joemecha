@@ -9,29 +9,30 @@ My name is Joe Mecha and I use he/him pronouns. I'm a developer specializing in 
 When I'm not coding, I'm often scrambling over a mountain ridge 🏔, going on a 'deer safari' with my dog 🐶, or playing a round of disc golf 🥏
 
 
-### Ways to connect:
+## Ways to connect:
 <p align="center">
   <a href="https://linkedin.com/in/joemecha" target="blank"><img align="left" src="icons/linkedin.png" alt="linkedin" width="32px" /></a>
   <a href="mailto:jwmecha@gmail.com" target="blank"><img align="left" src="icons/mail.png" alt="email" width="32px" /></a>
   <a href="https://calendly.com/joemecha" target="blank"><img align="left" src="icons/calendly.png" alt="letschat" width="32px" /></a>
   <a href="https://www.alltrails.com/members/joseph-mecha" target="blank"><img align="left" src="icons/alltrails.png" alt="mountaintime" width="32px" /></a>
 </p>
-
-### Technologies:
-<img align="left" src="icons/ruby-plain.svg" />
-<img align="left" src="icons/rails-plain.svg" />
-<img align="left" src="icons/postgresql-plain-plain.svg" />
-<img align="left" src="icons/rspec-plain.png" />
-<img align="left" src="icons/css3-plain.svg" />
-<img align="left" src="icons/html5-plain.svg" />
-<img align="left" src="icons/git-plain.svg" />
-<img align="left" src="icons/github-original.svg" />
-<img align="left" src="icons/travis-plain.svg" />
-<img align="left" src="icons/heroku-plain.svg" />
-<img align="left" src="icons/atom-original.svg" />
-<img align="left" src="icons/vs-code-original.svg" />
-<img align="left" src="icons/photoshop-plain.svg" />
-<img align="left" src="icons/gimp-plain.png" />
+<br>
+<br>
+## Technologies:
+<img align="left" src="icons/ruby-plain.svg" width="32px" />
+<img align="left" src="icons/rails-plain.svg" width="32px" />
+<img align="left" src="icons/postgresql-plain-plain.svg" width="32px" />
+<img align="left" src="icons/rspec-plain.png" width="32px" />
+<img align="left" src="icons/css3-plain.svg" width="32px" />
+<img align="left" src="icons/html5-plain.svg" width="32px" />
+<img align="left" src="icons/git-plain.svg" width="32px" />
+<img align="left" src="icons/github-original.svg" width="32px" />
+<img align="left" src="icons/travis-plain.svg" width="32px" />
+<img align="left" src="icons/heroku-plain.svg" width="32px" />
+<img align="left" src="icons/atom-original.svg" width="32px" />
+<img align="left" src="icons/vs-code-original.svg" width="32px" />
+<img align="left" src="icons/photoshop-plain.svg" width="32px" />
+<img align="left" src="icons/gimp-plain.png" width="32px" />
 <br />
 <br />
 <br />
