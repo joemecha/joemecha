@@ -9,9 +9,9 @@ My name is Joe Mecha and I use he/him pronouns. I'm a developer specializing in 
 
 - ⚙🔧 I’m currently working on __[Whether, Sweater](https://github.com/joemecha/whether-sweater)__
 
-- ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="40px" />
+- ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="20px" />
 
--  When not coding: scrambling over a mountain ridge 🏔, going on a 'deer safari' with 🐶, or playing a round of disc golf 🥏
+- ✌️ When not coding: scrambling over a mountain ridge 🏔, going on a 'deer safari' with 🐶, or playing a round of disc golf 🥏
 
 
 ## Ways to connect:
