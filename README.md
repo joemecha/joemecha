@@ -1,16 +1,17 @@
 ### Hello hello 👋
 
-![readme_banner2](https://user-images.githubusercontent.com/72046344/123562329-c61e0880-d773-11eb-833a-e1582094c477.jpg)
+<!-- ![readme_banner2](https://user-images.githubusercontent.com/72046344/123562329-c61e0880-d773-11eb-833a-e1582094c477.jpg) -->
 
 ### Thanks for stopping by!
 
 My name is Joe Mecha and I use he/him pronouns. I'm a developer specializing in back-end engineering with a keen interest in green tech and environmental organizations. I have a background in foreign languages and previously lived in Japan for 8 years. 
 
-When I'm not coding, I'm often scrambling over a mountain ridge 🏔, going on a 'deer safari' with my dog 🐶, or playing a round of disc golf 🥏
 
 - ⚙🔧 I’m currently working on __[Whether, Sweater](https://github.com/joemecha/whether-sweater)__
 
 - ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="40px" />
+
+-  When not coding: scrambling over a mountain ridge 🏔, going on a 'deer safari' with 🐶, or playing a round of disc golf 🥏
 
 
 ## Ways to connect:
