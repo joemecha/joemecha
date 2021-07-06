@@ -4,17 +4,22 @@
 
 ### Thanks for stopping by!
 
-My name is Joe Mecha and I use he/him pronouns. I'm a developer specializing in back-end engineering with a keen interest in green tech and environmental organizations. I have a background in foreign languages and previously lived in Japan for 8 years. 
+My name is Joe Mecha and I use he/him pronouns. 
+
+I'm a developer specializing in back-end engineering with a keen interest in green tech and environmental organizations.
 
 
 - ⚙🔧 I’m currently working on __[Whether, Sweater](https://github.com/joemecha/whether-sweater)__
 
 - ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="20px" />
 
-- ✌️ When not coding: scrambling over a mountain ridge 🏔, going on a 'deer safari' with 🐶, or playing a round of disc golf 🥏
+- ✌️ When I'm not coding I'm often: 
+   - scrambling over a mountain ridge 🏔
+   - going on a 'deer safari' with the 🐶 
+   - playing a round of disc golf 🥏
 
 
-## Ways to connect:
+## Let's connect!
 <p>
   <a href="https://linkedin.com/in/joemecha" target="blank"><img align="left" src="icons/linkedin.png" alt="linkedin" width="40px" /></a>
   <a href="mailto:jwmecha@gmail.com" target="blank"><img align="left" src="icons/mail.png" alt="email" width="40px" /></a>
