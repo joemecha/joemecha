@@ -11,9 +11,9 @@ I'm a developer specializing in back-end engineering with a keen interest in gre
 
 - ⚙🔧 I’m currently working on: __[Whether, Sweater](https://github.com/joemecha/whether-sweater)__
 
-- ☀️🌱 I’m currently learning: __JavaScript__ <img src="icons/javascript.svg" width="20px" />
+- ☀️🌱 I’m currently learning: __GraphQL__<img src="icons/graphql.svg" width="20px" /> and __JavaScript__ <img src="icons/javascript.svg" width="20px" />
 
-- ✌️ When I'm not coding I'm often: scrambling over a mountain ridge 🏔
+- ✌️ When not coding I'm usually: scrambling over a mountain ridge 🏔
 
 
 ## Let's connect!
