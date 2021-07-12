@@ -1,17 +1,13 @@
-### Hello hello 👋
-
 <!-- ![readme_banner2](https://user-images.githubusercontent.com/72046344/123562329-c61e0880-d773-11eb-833a-e1582094c477.jpg) -->
 
-### Thanks for stopping by!
+## Joe Mecha (he/him) 
 
-My name is Joe Mecha and I use he/him pronouns. 
-
-I'm a developer specializing in back-end engineering with a keen interest in green tech and environmental organizations.
+Hello hello! I'm a developer specializing in back-end engineering with a keen interest in purpose-driven organizations, especially in green tech and the environment.
 
 
-- ⚙🔧 I’m currently working on: __[Whether, Sweater](https://github.com/joemecha/whether-sweater)__
+- ⚙🔧 I’m currently working on: __[WalkSafe](https://github.com/Walk-Safe)__
 
-- ☀️🌱 I’m currently learning: __GraphQL__<img src="icons/graphql.svg" width="20px" /> and __JavaScript__ <img src="icons/javascript.svg" width="20px" />
+- ☀️🌱 I’m currently learning: __GraphQL__<img src="icons/graphql_icon.png" width="20px" /> and __JavaScript__ <img src="icons/javascript.svg" width="20px" />
 
 - ✌️ When not coding I'm usually: scrambling over a mountain ridge 🏔
 
