@@ -44,7 +44,6 @@ Hello hello! I'm a developer specializing in back-end engineering with a keen in
 </p>
 <br />
 <br />
-<br />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joemecha&show_icons=true&theme=dark&icon_color=c9d1d9&bg_color=161c22&title_color=56d364)
 
