@@ -2,7 +2,7 @@
 
 ## Joe Mecha (he/him) 
 
-Hello hello! I'm a developer specializing in back-end engineering with a keen interest in purpose-driven organizations, especially in green tech and the environment.
+Hello hello! I'm a developer specializing in back-end engineering with a keen interest in purpose-driven organizations, especially in green tech the environment, and education.
 
 
 - ⚙🔧 I’m currently working on: __[WalkSafe](https://github.com/Walk-Safe)__
