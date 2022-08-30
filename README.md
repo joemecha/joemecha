@@ -15,7 +15,7 @@ Hello hello! I'm a developer specializing in back-end engineering with Ruby on R
 ## Let's connect!
 <p>
   <a href="https://linkedin.com/in/joemecha" target="blank"><img align="left" src="icons/linkedin.png" alt="linkedin" width="40px" /></a>
-  <a href="mailto:jwmecha@gmail.com" target="blank"><img align="left" src="icons/mail.png" alt="email" width="40px" /></a>
+  <a href="mailto:joe.mecha@measurabl.com" target="blank"><img align="left" src="icons/mail.png" alt="email" width="40px" /></a>
   <a href="https://www.alltrails.com/members/joseph-mecha" target="blank"><img align="left" src="icons/alltrails.png" alt="mountaintime" width="40px" /></a>
 </p>
 <br />
