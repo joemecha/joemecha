@@ -2,21 +2,20 @@
 
 ## Joe Mecha (he/him) 
 
-Hello hello! I'm a developer specializing in back-end engineering with a keen interest in purpose-driven organizations, especially in green tech and education.
+Hello hello! I'm a developer specializing in back-end engineering with Ruby on Rails.
 
+<!--
+- ⚙🔧 I’m currently working on: 
 
-- ⚙🔧 I’m currently working on: __[WalkSafe](https://github.com/Walk-Safe)__
-
-- ☀️🌱 I’m currently learning: __GraphQL__<img src="icons/graphql_icon.png" width="20px" /> and __JavaScript__ <img src="icons/javascript.svg" width="20px" />
+- ☀️🌱 I’m currently learning: 
 
 - ✌️ When not coding I'm usually: scrambling over a mountain ridge 🏔
-
+-->
 
 ## Let's connect!
 <p>
   <a href="https://linkedin.com/in/joemecha" target="blank"><img align="left" src="icons/linkedin.png" alt="linkedin" width="40px" /></a>
   <a href="mailto:jwmecha@gmail.com" target="blank"><img align="left" src="icons/mail.png" alt="email" width="40px" /></a>
-  <a href="https://calendly.com/joemecha" target="blank"><img align="left" src="icons/calendly.png" alt="letschat" width="40px" /></a>
   <a href="https://www.alltrails.com/members/joseph-mecha" target="blank"><img align="left" src="icons/alltrails.png" alt="mountaintime" width="40px" /></a>
 </p>
 <br />
