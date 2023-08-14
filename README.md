@@ -4,7 +4,7 @@
 
 Hello hello! I'm a developer specializing in back-end engineering with Ruby on Rails. I have a keen interest in green tech, environmental, and other purpose-driven organizations.
 
-- ⚙🔧 I’m currently planning a new personal project
+- ⚙🔧 I’m currently working on a personal project that is a Rails API for keeping track of home gardens
 
 - ☀️🌱 I’m currently brushing up my SQL skills, and learning __Docker__ <img src="icons/docker-logo.png" width="30px" /> and __JavaScript__ <img src="icons/javascript.svg" width="30px" />
 
