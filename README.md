@@ -6,7 +6,7 @@ Hello hello! I'm a developer specializing in back-end engineering with Ruby on R
 
 - ⚙🔧 I’m currently working on a personal project that is a Rails API for keeping track of home gardens
 
-- ☀️🌱 I’m currently brushing up my SQL skills, and learning __Docker__ <img src="icons/docker-logo.png" width="30px" /> and __JavaScript__ <img src="icons/javascript.svg" width="30px" />
+- ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="30px" /> and React. Next, I'll be revisiting __Docker__ <img src="icons/docker-logo.png" width="30px" /> 
 
 - 📓 This is my resume/personal <a href="https://joemecha.github.io/">GitHub page</a>
 
