@@ -4,9 +4,9 @@
 
 Hello hello! I'm a developer specializing in back-end engineering with Ruby on Rails. I have a keen interest in green tech, environmental, and other purpose-driven organizations.
 
-- ⚙🔧 I’m currently working on a personal project that is a Rails API for keeping track of home gardens
+- ⚙🔧 I’m currently working on a personal project that retrieves, stores, analyzes and exports playlists from the website Music League
 
-- ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="30px" /> and React. Next, I'll be revisiting __Docker__ <img src="icons/docker-logo.png" width="30px" /> 
+<!-- ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="30px" /> and React. Next, I'll be revisiting __Docker__ <img src="icons/docker-logo.png" width="30px" /> -->
 
 - 📓 This is my resume/personal <a href="https://joemecha.github.io/">GitHub page</a>
 
@@ -15,8 +15,8 @@ Hello hello! I'm a developer specializing in back-end engineering with Ruby on R
 ## Let's connect!
 <p>
   <a href="https://linkedin.com/in/joemecha" target="blank"><img align="left" src="icons/linkedin.png" alt="linkedin" width="40px" /></a>
-  <a href="mailto:joe.mecha@measurabl.com" target="blank"><img align="left" src="icons/mail.png" alt="email" width="40px" /></a>
-  <a href="https://calendly.com/joemecha" target="blank"><img align="left" src="icons/calendly.png" alt="letschat" width="40px" /></a>
+  <a href="mailto:jmecha@verisys.com" target="blank"><img align="left" src="icons/mail.png" alt="email" width="40px" /></a>
+  <!-- <a href="https://calendly.com/joemecha" target="blank"><img align="left" src="icons/calendly.png" alt="letschat" width="40px" /></a> -->
   <a href="https://www.alltrails.com/members/joseph-mecha" target="blank"><img align="left" src="icons/alltrails.png" alt="mountaintime" width="40px" /></a>
 </p>
 <br />
