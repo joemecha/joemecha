@@ -4,7 +4,7 @@
 
 Hello hello! I'm a developer specializing in back-end engineering with Ruby on Rails. I have a keen interest in green tech, environmental, and other purpose-driven organizations.
 
-- ⚙🔧 I’m currently working on a personal project that retrieves, stores, analyzes and exports playlists from the website Music League
+- ⚙🔧 I’m currently working on a personal project that retrieves, stores, analyzes and exports playlists from the Spotify-powered site Music League: <a href="https://github.com/joemecha/playlist_history_generator">Playlist History Generator</a>
 
 <!-- ☀️🌱 I’m currently learning __JavaScript__ <img src="icons/javascript.svg" width="30px" /> and React. Next, I'll be revisiting __Docker__ <img src="icons/docker-logo.png" width="30px" /> -->
 
